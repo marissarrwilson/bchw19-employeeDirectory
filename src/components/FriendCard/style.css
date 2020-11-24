@@ -13,8 +13,8 @@
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background:#6CADDC;
   }
   .card > .img-container > img {
-    width: 60%
+    width: 100%;
+    justify-content: center;
   }
